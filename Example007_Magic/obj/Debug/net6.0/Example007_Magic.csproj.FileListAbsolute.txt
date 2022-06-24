@@ -1,0 +1,15 @@
+/home/silverferret/Документы/My_projekt/Hello/Example007_Magic/bin/Debug/net6.0/Example007_Magic
+/home/silverferret/Документы/My_projekt/Hello/Example007_Magic/bin/Debug/net6.0/Example007_Magic.deps.json
+/home/silverferret/Документы/My_projekt/Hello/Example007_Magic/bin/Debug/net6.0/Example007_Magic.runtimeconfig.json
+/home/silverferret/Документы/My_projekt/Hello/Example007_Magic/bin/Debug/net6.0/Example007_Magic.dll
+/home/silverferret/Документы/My_projekt/Hello/Example007_Magic/bin/Debug/net6.0/ref/Example007_Magic.dll
+/home/silverferret/Документы/My_projekt/Hello/Example007_Magic/bin/Debug/net6.0/Example007_Magic.pdb
+/home/silverferret/Документы/My_projekt/Hello/Example007_Magic/obj/Debug/net6.0/Example007_Magic.csproj.AssemblyReference.cache
+/home/silverferret/Документы/My_projekt/Hello/Example007_Magic/obj/Debug/net6.0/Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/home/silverferret/Документы/My_projekt/Hello/Example007_Magic/obj/Debug/net6.0/Example007_Magic.AssemblyInfoInputs.cache
+/home/silverferret/Документы/My_projekt/Hello/Example007_Magic/obj/Debug/net6.0/Example007_Magic.AssemblyInfo.cs
+/home/silverferret/Документы/My_projekt/Hello/Example007_Magic/obj/Debug/net6.0/Example007_Magic.csproj.CoreCompileInputs.cache
+/home/silverferret/Документы/My_projekt/Hello/Example007_Magic/obj/Debug/net6.0/Example007_Magic.dll
+/home/silverferret/Документы/My_projekt/Hello/Example007_Magic/obj/Debug/net6.0/ref/Example007_Magic.dll
+/home/silverferret/Документы/My_projekt/Hello/Example007_Magic/obj/Debug/net6.0/Example007_Magic.pdb
+/home/silverferret/Документы/My_projekt/Hello/Example007_Magic/obj/Debug/net6.0/Example007_Magic.genruntimeconfig.cache
