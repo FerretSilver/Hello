@@ -20,7 +20,7 @@ int x = xa, y = xb;
 
 int count = 0;
 
-while(count < 10000)
+while(count < 10)
 {
     int what = new Random().Next(0, 3); // [0;3) 0 1 2
 
@@ -36,7 +36,7 @@ while(count < 10000)
         x = (y + yb) / 2;
     }
 
-    if(what == 0)
+    if(what == 2)
     {
         x = (x + xc) / 2;
         x = (y + yc) / 2;
